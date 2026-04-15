@@ -5,4 +5,4 @@ NOM="tony"
 #read serveix per llegir informació del teclt
 read -p "introdueix un nom: " NOM
 
-echo "El teu nom és ${NOM}"
+echo  "El teu nom és ${NOM}"
