@@ -14,4 +14,4 @@ echo "${X}-${Y}=${RESTA}"
 PRODUCTE=$((X*Y))
 echo "${X}*${Y}=${PRODUCTE}"
 DIVISIO=$(echo "scale=2; ${X}/${Y}" | bc)
-echo "${X}/${Y}=${DIVISIO}"
+echo  "${X}/${Y}=${DIVISIO}"
